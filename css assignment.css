@@ -1,0 +1,16 @@
+h1{text-align: center;
+font-size: 30px;}
+
+#background-images{
+    background-image: url(./CSS_Assets/HeroSection_img/backgroundimage.png);
+}
+.card{justify-content:center;
+margin: 5px;}
+
+.flex{
+    padding: auto;
+}
+
+.background{
+    background-image: url(./CSS_Assets/HeroSection_img/backgroundimage.png);
+}
